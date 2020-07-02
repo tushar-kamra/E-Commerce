@@ -1,7 +1,7 @@
 # E-commerce Web App 
 > ## Theme: Atmanirbhar Bharat
 
-Live at: http://tusharkamra.epizy.com/Atmanirbhar
+Live at: http://tusharkamra.epizy.com/atmanirbhar
 
 
 
